@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erik Parker / Evolutionary Ecology of Symbiosis"
 title_separator          : "-"
 name                     : &name "Erik Parker"
-description              : # &description "is exploring the evolutionary ecology of symbiosis in *Onthophagus* dung beetles."
+description              : &description "Erik Parker is a biologist exploring the evolutionary ecology of symbiosis in *Onthophagus* dung beetles."
 url                      : https://erikpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erikpark/erikpark.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "is exploring the evolutionary ecology of symbiosis in **Onthophagus** dung beetles."
   location         : "Bloomington, IN"
-  employer         : "Indiana University"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=q65lO1MAAAAJ&hl=en"
   email            : "esparker7@gmail.com"
@@ -175,18 +175,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # portfolio:
+   # output: true
+  #  permalink: /:collection/:path/
+#  talks:
+  #  output: true
+   # permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
@@ -227,23 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
@@ -309,5 +292,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-theme: jekyll-theme-midnight
