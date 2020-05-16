@@ -1,3 +1,10 @@
+---
+layout: default
+title: "Teaching and Outreach"
+permalink: /outreach/
+author_profile: true
+---
+
 My goal as an educator is to inspire creativity and a sense of exploration in the next generation of scientists by involving them in authentic explorations of the natural world through use of the scientific method.  
 
 I’ve followed this guiding principle in the classroom by incorporating authentic scientific inquiry into all the lectures, activities, homework, and exams I design. Throughout my PhD I’ve had ample opportunity to practice this skill, both as a teaching assistant (N times, ranging from introductory to advanced courses) and the instructor of record in a summer Zoology course. Going forward, I will carry this emphasis on learning through doing and my experience of implementing this principle into the next step in my career.  
