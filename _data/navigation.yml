@@ -4,7 +4,7 @@ main:
     url: /research/
 
   - title: "Teaching and Outreach"
-    url: /outreach/
+    url: /outreach/outreach.md
 
   - title: "Publications"
     url: /publications/
