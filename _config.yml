@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Erik Parker / Evolutionary Ecology of Symbiosis"
 title_separator          : "-"
 name                     : &name "Erik Parker"
-description              : &description "Erik Parker is a biologist exploring the evolutionary ecology of symbiosis in *Onthophagus* dung beetles."
+description              : &description "Erik Parker is a biologist exploring the evolutionary ecology of microbial symbiosis in dung beetles."
 url                      : https://erikpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erikpark/erikpark.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erik Parker"
   avatar           : "profile.png"
-  bio              : "is exploring the evolutionary ecology of symbiosis in **Onthophagus** dung beetles."
+  bio              : "is exploring the evolutionary ecology of microbial symbiosis in dung beetles."
   location         : "Bloomington, IN"
   employer         :
   pubmed           : 
