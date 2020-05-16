@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Teaching and Outreach"
 permalink: /outreach/
 author_profile: true

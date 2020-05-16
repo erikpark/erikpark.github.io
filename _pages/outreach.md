@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /outreach/
 title:
 excerpt: "Teaching and Outreach"
