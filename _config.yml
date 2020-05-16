@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -86,7 +86,7 @@ author:
   bio              : "is exploring the evolutionary ecology of microbial symbiosis in dung beetles."
   location         : "Bloomington, IN"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=q65lO1MAAAAJ&hl=en"
   email            : "esparker7@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Erik_Parker3"
