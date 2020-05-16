@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Teaching and Outreach"
 permalink: /outreach/
+title:
+excerpt: "Teaching and Outreach"
 author_profile: true
 ---
 
