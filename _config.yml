@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Erik Parker / Evolutionary Ecology of Symbiosis"
 title_separator          : # "-"
+masthead_title           : "Erik Parker / Evolutionary Ecology of Symbiosis"
 name                     : &name "Erik Parker"
 description              : &description "Erik Parker is a biologist exploring the evolutionary ecology of microbial symbiosis in dung beetles."
 url                      : https://erikpark.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
