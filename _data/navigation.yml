@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/  
-    
-  - title: "Outreach"
-    url: /outreach/  
+    url: /research/
+
+  - title: "Teaching and Outreach"
+    url: /outreach/
 
   - title: "Publications"
-    url: /publications/    
-    
+    url: /publications/
+
   - title: "CV"
     url: /files/Parker CV 5.2020.pdf
