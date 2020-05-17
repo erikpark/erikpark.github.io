@@ -4,21 +4,11 @@ permalink: /outreach/
 title:
 excerpt: "Teaching and Outreach"
 author_profile: true
-gallery:
-  - url: /images/IMG_0043.JPG
-    image_path: /images/IMG_0043.JPG
-    title: "Summer Zoology course"
-  - url: /images/BHSS_2015_outreach.jpg
-    image_path: /images/BHSS_2015_outreach.jpg
-    title: "Highschool outreach in Bloomington"
-  - url: /images/BHSS_2015_outreach2.jpg
-    image_path: /images/BHSS_2015_outreach2.jpg
-    title: "High school outreach in Bloomington"
-header:
-    image: /images/IMG_0043.JPG
 ---
 
 My goal as an educator is to inspire creativity and a sense of exploration in the next generation of scientists by involving them in authentic explorations of the natural world through use of the scientific method.  
+
+![](/images/IMG_0043.JPG)
 
 I’ve followed this guiding principle in the classroom by incorporating authentic scientific inquiry into all the lectures, activities, homework, and exams I design. Throughout my PhD I’ve had ample opportunity to practice this skill, both as a teaching assistant (7 times, ranging from introductory to advanced courses) and the instructor of record in a summer Zoology course. Going forward, I will carry this emphasis on learning through doing and my experience of implementing this principle into the next step in my career.  
 
