@@ -15,3 +15,5 @@ Specifically, my work investigates how these relationships impact the developmen
 To investigate these questions I have married molecular, bioinformatic and animal husbandry techniques with sound statistical analysis and rigorous experimental design.  
 
 When not wearing my biologist hat, I spend the majority of my time as a personal chef, running stroller chauffeur, and personal jungle gym for my two kiddos.
+
+![](/images/aboutmeimage.jpeg)
