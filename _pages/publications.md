@@ -16,4 +16,6 @@ author_profile: true
 **Parker, E. S.**, Dury, G. J., & Moczek, A. P. (2019). [Transgenerational developmental effects of species‐specific, maternally transmitted microbiota in *Onthophagus* dung beetles.](http://erikpark.github.io/files/2018-Transgenerational-developmental-effects-of-species-specific-maternally-transmitted-microbiota-in-Onthophagus-dung-beetles.pdf) *Ecological Entomology*, 44(2), 274-282.
 
 
-### in press / in print
+### in preparation
+
+**Parker ES**, Moczek AP. Don’t stand so close to me: The context dependent benefits of host- microbe interactions in *Onthophagus* taurus beetles. To be submitted to *Evolution & development* summer 2020.
