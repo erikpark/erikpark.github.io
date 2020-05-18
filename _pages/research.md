@@ -29,4 +29,14 @@ At this point, we knew that the pedestal was critical to *Onthophagus* developme
 
 ![](/images/world.png)
 
-### The role of the microbiota in rapid host adaptation
+### The role of the microbiota in rapid host adaptation, and speciation
+
+The next chapters of my research are currently being written.
+
+First, I am leveraging populations of *Onthophagus taurus* which in just 50 years have spread throughout the Eastern US from an accidental introduction site in Northern Florida to The Canadian border. This introduction event was unique among the many recorded for *O. taurus* in that it was not planned, and thus the animals came over with their full complement of pedestal-transmitted microbes. Furthermore, this is also the only introduction event where we have seen this species spread significantly outside its ancestral niche space. By coupling proven microbiome-manipulation techniques with ecologically relevant animal rearing, I’m aiming to uncover the role of the microbiota in the rapid environmental adaptation of *O. taurus*.
+
+![](/images/MIXFL.png)
+
+Second, I’m currently pursuing a project designed to tackle a question that has long intrigued me: do host-microbiota conflicts drive speciation by inducing hybrid lethality? While this area is of great interest to many biologists, empirical support is currently limited. I am addressing this shortcoming by assessing the impact of pedestal microbiota removal, and exchange between two members of an interbreeding but reproductively isolated *Onthophagus* species complex.
+
+Both projects are nearing completion, and I am excited to share their results soon!
