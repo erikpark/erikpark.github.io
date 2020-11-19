@@ -9,7 +9,7 @@ author_profile: true
 ### in press / in print
 *(\* Co-first authors)*
 
-**Parker ES**, Moczek AP. Don’t stand so close to me: microbiota-facilitated enemy release dynamics in introduced *Onthophagus taurus* dung beetles. *Ecology and Evolution* **in press**.
+**Parker ES**, Moczek AP (2020). [Don’t stand so close to me: microbiota-facilitated enemy release dynamics in introduced *Onthophagus taurus* dung beetles.](http://erikpark.github.io/files/16888960.pdf) *Ecology and Evolution*.
 
 **Parker, E. S.**, Newton, I. L., & Moczek, A. P. (2020). [(My Microbiome) Would Walk 10,000 miles: Maintenance and Turnover of Microbial Communities in Introduced Dung Beetles.](http://erikpark.github.io/files/Parker2020_Article_MyMicrobiomeWouldWalk10000Mile.pdf) *Microbial Ecology*, 1-12.
 
